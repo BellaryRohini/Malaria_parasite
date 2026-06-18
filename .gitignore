@@ -1,0 +1,6 @@
+venv/
+cell_images/
+__pycache__/
+*.pyc
+Data.npy
+Labels.npy
