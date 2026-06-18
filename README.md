@@ -62,14 +62,3 @@ Total Images: Approximately 27,500+
 
 The CNN model successfully classifies malaria-infected and uninfected cell images with high accuracy and demonstrates the effectiveness of deep learning in medical image analysis.
 
-## Future Enhancements
-
-* Implement Transfer Learning using ResNet50 or VGG16
-* Deploy the model as a web application
-* Improve performance using data augmentation
-* Real-time malaria detection system
-
-## Author
-
-Rohini Bellari
-B.Tech – Artificial Intelligence & Machine Learning
